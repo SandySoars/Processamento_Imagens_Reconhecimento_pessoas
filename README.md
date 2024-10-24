@@ -4,7 +4,7 @@ Este projeto utiliza **Redes Neurais Convolucionais (CNN)** para realizar a clas
 
 ## Descrição do Projeto
 
-O objetivo é classificar corretamente faces com base em um modelo de CNN treinado com imagens de cada pessoa. Aproximadamente 200 imagens (ou mais para melhor classificação) são coletadas usando uma webcam e organizadas em pastas com os nomes das clases(pessoas). As possíveis aplicações incluem:
+O objetivo é classificar corretamente faces com base em um modelo de CNN treinado com imagens de cada pessoa. Aproximadamente 200 imagens (ou mais para melhor classificação) são coletadas usando uma webcam e organizadas em pastas com os nomes das clases (pessoas). As possíveis aplicações incluem:
 - **Reconhecimento facial** em grupos ou equipes;
 - **Segurança e autenticação**;
 - **Classificação personalizada** em ambientes educacionais ou eventos.
